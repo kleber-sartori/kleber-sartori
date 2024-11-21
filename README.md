@@ -48,10 +48,4 @@ Sou um profissional experiênte em **DevOps**, automação e infraestrutura como
   ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
-
-## 📈 **Estatísticas do GitHub**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleber-sartori&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-sartori&layout=compact&theme=radical)
 
